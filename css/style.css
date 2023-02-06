@@ -1,0 +1,33 @@
+
+
+
+/* met gebruik van div classes kan ik meerdere elementen met minder code bedienen container 1 word voor de bovenste en onderste text gebruikt */
+.container1{ 
+    max-width: 100%;
+}
+
+
+.container1 img{
+    float: left;
+
+}
+.container1 p{
+    float: right;
+    max-width: 75%;
+}
+
+
+.container2{
+    max-width: 100%;
+}
+.container2 img{
+    float: right;
+}
+
+.container2 p{
+    float: left;
+    max-width: 80%;
+}
+
+
+
